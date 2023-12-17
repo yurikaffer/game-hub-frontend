@@ -30,7 +30,9 @@ https://github.com/yurikaffer/game-hub-frontend/assets/80132572/eaddcc54-9224-4e
 ## 🚀 Como executar o projeto frontend
 
 # Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode.
+
+Você deve também rodar em sua maquina local o projeto backend: 
 
 - rodar o comando npm i
 - rodar o comando npm start
