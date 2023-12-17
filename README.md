@@ -6,6 +6,7 @@ Projeto Full-Stack com o propósito de demonstrar meus conhecimentos.
 - ✅ Funcionalidades CRUD para os jogos.
 - ✅ formulário de cadastro de jogos.
 - ✅ formulário de Edição de jogos.
+- ✅ Validações de formulário.
 - ✅ Modal para exclusão de jogos
 - ✅ Carousel para apresentação inicial de jogos.
 - ✅ Filtro de ordenação para nome, menor preço e maior preço.
@@ -23,6 +24,8 @@ Projeto Full-Stack com o propósito de demonstrar meus conhecimentos.
 - CSS
 
 ## Vídeo para demonstração do projeto.
+
+https://github.com/yurikaffer/game-hub-frontend/assets/80132572/eaddcc54-9224-4e95-a4f3-0a8c702f0083
 
 ## 🚀 Como executar o projeto frontend
 
