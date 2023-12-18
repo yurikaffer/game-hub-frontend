@@ -45,5 +45,5 @@ Você deve também rodar em sua maquina local o projeto backend: https://github.
 - acesse http://localhost:3000
 
 Feito com ❤️ por Yuri Kaffer 👋🏽 Entre em contato!
-yurikaffer@gmail.com
-https://www.linkedin.com/in/yuri-k-a97755133/
+- yurikaffer@gmail.com
+- https://www.linkedin.com/in/yuri-k-a97755133/
