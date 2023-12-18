@@ -1,7 +1,6 @@
 ## GameHub
 Projeto Full-Stack com o propósito de demonstrar meus conhecimentos.
 
-# Vídeo para demonstração do projeto.
 https://github.com/yurikaffer/game-hub-frontend/assets/80132572/eaddcc54-9224-4e95-a4f3-0a8c702f0083
 
 # 📃 Funcionalidas:
